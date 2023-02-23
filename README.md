@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nath-Nipan-2022
-- 👀 Learning Web Development 
+- 👨‍💻 Learning Web Development,
 - ✨ Have 1 year experience in Front-end
-- 🔍 Loking to join a reputed company to put some value to it!
+- 🔍 Looking for joining a reputed company to put some value to it!
 - 📩 Hire me: debnathnipan719@gmail.com
 
 <!---
